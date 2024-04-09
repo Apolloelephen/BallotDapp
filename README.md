@@ -20,3 +20,12 @@ This is a hardhat project.
 
 #### Installation
 Clone the project, then run `cd smart-contracts` to get into the smart-contract folder, run `npm install` to install all neccessary dependencies
+
+## Screenshots
+
+![Screenshot from 2024-04-09 10-47-45](https://github.com/Apolloelephen/BallotDapp/assets/90451195/0020c6a0-cbbe-4c50-8507-e24cbc13eb55)
+
+
+![Screenshot from 2024-04-09 10-49-09](https://github.com/Apolloelephen/BallotDapp/assets/90451195/f2a7910b-f163-4c34-b878-1a1dfc186b5f)
+
+
